@@ -4,8 +4,8 @@
 Testbed 4- SEED-5G: SpaceEdge AI-Enabled Delay-Tolerant NB-IoT Platform.
 
 ## 2.	Dataset
-For the lameness classification we used a custom dataset from the sheep lameness videos we gathered from our sheep farm collaborator.
-For the sheep detection and pose estimation we used a pretrained model which was trained on SuperAnimal-Quadruped-80k dataset.
+For the lameness classification, a custom dataset from the sheep lameness videos was gathered from the sheep farm collaborator.  
+For the sheep detection and pose estimation, a pretrained model which was trained on SuperAnimal-Quadruped-80k dataset was used.
 
 ##  3.	Node Type
 Edge, Jetson Orin
